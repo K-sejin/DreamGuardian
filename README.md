@@ -1,1 +1,2 @@
-6주만에 개발한 프로젝트인 만큼, 리팩토링에는 크게 신경쓰지 못했습니다.
+게임 소개 영상
+https://drive.google.com/file/d/1tePsSlaYeZwoJq44-SNyFay3n2k-acAq/view
